@@ -1,0 +1,28 @@
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\bin\Debug\net8.0\luckText.exe
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\bin\Debug\net8.0\luckText.deps.json
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\bin\Debug\net8.0\luckText.runtimeconfig.json
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\bin\Debug\net8.0\luckText.dll
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\bin\Debug\net8.0\luckText.pdb
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.AssemblyInfoInputs.cache
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.AssemblyInfo.cs
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.csproj.CoreCompileInputs.cache
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.dll
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\refint\luckText.dll
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.pdb
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\luckText.genruntimeconfig.cache
+c:\Users\anton.faren\Desktop\appa\face\mappar till clas\luckText\obj\Debug\net8.0\ref\luckText.dll
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\bin\Debug\net8.0\luckText.exe
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\bin\Debug\net8.0\luckText.deps.json
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\bin\Debug\net8.0\luckText.runtimeconfig.json
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\bin\Debug\net8.0\luckText.dll
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\bin\Debug\net8.0\luckText.pdb
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.AssemblyInfoInputs.cache
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.AssemblyInfo.cs
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.csproj.CoreCompileInputs.cache
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.dll
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\refint\luckText.dll
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.pdb
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\luckText.genruntimeconfig.cache
+c:\Users\anton.faren\Documents\Prog1\Lucktext\luckText\obj\Debug\net8.0\ref\luckText.dll
